@@ -1,5 +1,5 @@
 {
-    "name": "baas/laravel-visitor-logger",
+    "name": "Baas/laravel-visitor-logger",
     "description": "Laravel Visitor Logger Package",
     "keywords": [
             "Laravel visitor activity",
@@ -12,7 +12,7 @@
     "type": "package",
     "authors": [
         {
-            "name": "Roland",
+            "name": "Roland*",
             "email": "roland@brains-as-a-service.nl"
         }
     ],
